@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.8.6
+Built-By: Riccardo Muzzì
+Build-Jdk: 11.0.13
+
+Main-Class: me.ocptrain.operatorstrainer.OperatorPrecedenceForm
